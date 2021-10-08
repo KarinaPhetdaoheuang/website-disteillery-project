@@ -1,0 +1,32 @@
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+a{
+  display: block;
+  text-align: center;
+}
+
+a[href="http://academic.brooklyn.cuny.edu/english/melani/cs6/beauty.html"] {
+  color: black;
+}
+
+a:hover {
+  color: #77567A;
+}
+h1 
+{
+  color: black;
+  text-align: center;
+	border: 2px solid black;
+}
+body {background-color: white;}
+
+p { 
+  font-family: Garamond;
+  text-align: center;
+  line-height: 1.2rem;
+  color:black;
+
+}
